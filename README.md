@@ -1,1 +1,1 @@
-# psychic-memory
+# psychic-projects
