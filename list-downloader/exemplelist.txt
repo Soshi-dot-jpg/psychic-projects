@@ -1,0 +1,9 @@
+https://cdn.modrinth.com/data/LNytGWDc/versions/HNYrbfZZ/create-1.20.1-0.5.1.f.jar
+https://cdn.modrinth.com/data/LQ3K71Q1/versions/NhH3bdcX/dynamic-fps-3.4.2%2Bminecraft-1.20.4-forge.jar
+https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar
+https://cdn.modrinth.com/data/NNAgCjsB/versions/17Hi340V/entityculling-forge-1.6.2-mc1.20.1.jar
+https://cdn.modrinth.com/data/nfn13YXA/versions/QMZzkIrD/RoughlyEnoughItems-12.1.705-forge.jar
+https://cdn.modrinth.com/data/fXt291FO/versions/sPKVzUaW/cccbridge-mc1.20.1-forge-1.6.3.jar
+https://cdn.modrinth.com/data/gu7yAYhd/versions/jjxUkmGK/cc-tweaked-1.20.1-forge-1.110.2.jar
+https://cdn.modrinth.com/data/9s6osm5g/versions/nr1znv5v/cloth-config-11.1.118-forge.jar
+https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar
