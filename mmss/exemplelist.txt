@@ -7,3 +7,8 @@ https://cdn.modrinth.com/data/fXt291FO/versions/sPKVzUaW/cccbridge-mc1.20.1-forg
 https://cdn.modrinth.com/data/gu7yAYhd/versions/jjxUkmGK/cc-tweaked-1.20.1-forge-1.110.2.jar
 https://cdn.modrinth.com/data/9s6osm5g/versions/nr1znv5v/cloth-config-11.1.118-forge.jar
 https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar
+https://cdn.modrinth.com/data/n1EbSfq3/versions/eWO7sTUa/JustEnoughGuns-0.2.0-1.20.1.jar
+
+
+
+
